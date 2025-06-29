@@ -18,11 +18,11 @@ Follow the on-screen instructions to perform the desired actions.
 # API:
 The Employee Management System consists of the following classes:
 
-Employee: Represents a basic employee with a name, department, and salary.
+•**Employee**: Represents a basic employee with a name, department, and salary.
 
-Developer: Extends the Employee class and adds a programming language property.
+•**Developer**: Extends the Employee class and adds a programming language property.
 
-Manager: Extends the Employee class and adds a bonus property.
+•**Manager**: Extends the Employee class and adds a bonus property.
 
-Main: The main entry point of the application, which handles the user interface and employee management operations.
+•**Main**: The main entry point of the application, which handles the user interface and employee management operations.
 
