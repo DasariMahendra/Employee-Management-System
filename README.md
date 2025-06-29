@@ -11,7 +11,7 @@ The application will present you with a menu of options:
 4.Exit
 Follow the on-screen instructions to perform the desired actions.
 
-# API;
+# API:
 The Employee Management System consists of the following classes:
 
 Employee: Represents a basic employee with a name, department, and salary.
